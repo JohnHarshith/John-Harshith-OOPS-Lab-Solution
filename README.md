@@ -22,7 +22,7 @@ Password ---> 181E@wFT
 
 ## Problem Output
 
-<img src="ProblemOutput.png" alt="Problem Output" width="500" height="150"/>\
+<img src="ProblemOutput.png" alt="Problem Output" width="500" height="250"/>\
 Dear John your generated credentials are as follows\
 Email    ---> johnharshith@tech.abc.com\
 Password ---> zi4FY9r@
