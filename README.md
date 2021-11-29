@@ -1,4 +1,4 @@
-# John Harshith DSA Lab Solution
+# John Harshith OOPS Lab Solution
 
 ## Problem Statement
 
